@@ -7,6 +7,7 @@ class Tiempo {
 	int hora;
 	int min;
 	int seg;
+	int YUASDASDDASDSA;
 	Tiempo(){
 	}
 	Tiempo(String time){
